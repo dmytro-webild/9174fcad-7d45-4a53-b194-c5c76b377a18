@@ -157,7 +157,6 @@ export default function LandingPage() {
               id: "t6",              name: "CoachMike",              role: "Aspiring Coach - Case Study",              testimonial: "I use SUPERKOT's gameplay as teaching material. Not for what to do—for what absolutely never to do under any circumstance. His decision-making is a masterclass in the wrong choices.",              imageSrc: "http://img.b2bpic.net/free-photo/young-beautiful-couple-boy-girl-wearing-casual-clothes-having-fun-smiling-sticking-out-tongues-showing-ok-sign-light_141793-58888.jpg",              imageAlt: "CoachMike analytical expression"
             }
           ]}
-          gridVariant="bento-grid"
           animationType="blur-reveal"
           textboxLayout="default"
           useInvertedBackground={false}
