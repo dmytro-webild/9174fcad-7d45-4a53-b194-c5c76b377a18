@@ -40,7 +40,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroSplitDualMedia
-          title="Vitaliy \"SUPERKOT\" - CS2's Greatest Legend"
+          title="Vitaliy 'SUPERKOT' - CS2's Greatest Legend"
           description="Witness the rise of a gamer so legendary, so devastating with the flash grenade, so absolutely unable to click heads, that he has single-handedly redefined what it means to lose. With a K/D ratio that makes even bots question their existence (2 kills for every 20 deaths), SUPERKOT stands alone at the peak of competitive disaster."
           tag="THE WORST PLAYER EVER"
           tagIcon={Bomb}
