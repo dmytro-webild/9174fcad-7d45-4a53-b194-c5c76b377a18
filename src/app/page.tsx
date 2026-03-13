@@ -123,7 +123,7 @@ export default function LandingPage() {
             { id: "rage-quits", value: "342", description: "Times Teammates Rage Quit His Lobbies" },
             { id: "clips-viral", value: "847", description: "Viral Gaming Clips (All Highlighting Failures)" }
           ]}
-          gridVariant="three-columns-all-equal-width"
+          gridVariant="bento-grid"
           animationType="scale-rotate"
           textboxLayout="default"
           useInvertedBackground={true}
